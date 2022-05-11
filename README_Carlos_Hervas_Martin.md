@@ -1,16 +1,14 @@
 Este readme contiene información sobre los comandos usados:
 
-1) Inicio un directorio: 
-$ mkdir curso_git_github
+1) Abro un nuevo repositorio en GitHub que se llame "curso_git_github"
 
-2) Accedo al directorio:
-$ cd curso_git_github
+2) Me coloco con el GitBash en el escritorio usando cd
 
-3) Inicio el repositorio:
-$ git init
-
-4) Clono el repositorio de GitHub:
+3) Clono el repositorio de GitHub en el escritorio:
 $ git clone https://github.com/KeepCoding-FAM-Expleo-2022/curso_git_github.git
+
+4) Entro en la carpeta del repositorio:
+$ cd curso_git_github
 
 5) Creo un nuevo README vacío:
 $ touch README_Carlos_Hervas_Martin.md
