@@ -5,7 +5,7 @@ Este readme contiene información sobre los comandos usados:
 2) Me coloco con el GitBash en el escritorio usando cd
 
 3) Clono el repositorio de GitHub en el escritorio:
-$ git clone https://github.com/KeepCoding-FAM-Expleo-2022/curso_git_github.git
+$ git clone https://github.com/carloshervasmartin/curso_git_github.git
 
 4) Entro en la carpeta del repositorio:
 $ cd curso_git_github
